@@ -1,4 +1,4 @@
-# Housing Prices
+## Description
 
 This is a small project which implement the Linear Regression on Bengaluru House price data dataset on kaggle by AmitabhaChakraborty.
 https://www.kaggle.com/amitabhajoy/bengaluru-house-price-data
